@@ -1,7 +1,3 @@
-# Github test
+# Git & Github Course
 
-Arquivo da aula de Git e Github para iniciantes.
-abc
-
-+1
-+2
+Studying a bit about Git and Github on Udemy
